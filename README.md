@@ -1,5 +1,5 @@
 # spaceFighter
- This is a game for my AP project.
+ This is a game for my AP project. This is made using LIBgdx framework and IntelliJ Idea in java.
  
  Player 1 controls:
  1. Arrow keys for movement
